@@ -1,8 +1,8 @@
 # MP3_Downloader
 
-Languages - Kotlin, Python
-Libraries Used - Python libraies - yt-dlp
-                Kotlin libraries -  okhttp, ffmpeg, chaquopy
+Languages - Kotlin, Python\n
+Libraries Used - Python libraries - yt-dlp\n
+                Kotlin libraries -  okhttp, ffmpeg, chaquopy\n
 
 # yt-dlp
 is used to get the information about the youtube video, and it uses python and the python script for it has been accomodated in the project 
