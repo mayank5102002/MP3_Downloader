@@ -1,11 +1,11 @@
-# MP3_Downloader
+# MP3_Downloader  
+Mp3 downloader for youtube videos, user can put link of any youtube video and the application will download the mp3 file or the audio file of that youtube video in the desired location selected by the user.
 
 APK Link ->  
 https://drive.google.com/file/d/1USY8CrkPUeglx_OPc7VBWytQFHi2Ht6W/view?usp=sharing  
 (If app is getting blocked from installation, click on 'More Details' and then click 'Install Anyway')
 
 Languages - Kotlin, Python  
-Libraries Used -   
 Python libraries -> yt-dlp  
                 Kotlin libraries ->  okhttp, ffmpeg, chaquopy
 
